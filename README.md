@@ -3,25 +3,29 @@
 (Almost) all my talks as GIFs and PDFs. 
 
 ### Why do you visualise data? 
-[PDF](1703_WhyDoWeVisualiseData?.pdf), [Transcript](https://lisacharlotterost.github.io/2017/03/08/why-do-we-visualize-data/), Recording will follow
+[PDF](1703_WhyDoWeVisualiseData.pdf), [Transcript](https://lisacharlotterost.github.io/2017/03/08/why-do-we-visualize-data/), Recording will follow
+
 **Where?** INCH (an information design conference) in Munich, Germany
+
 **When?** March 2017
+
 **How long?** 20min
+
 **What?** Thinking about possible goals of data vis and how to categorise them, and which industry has which goals when it comes to data vis.
 
-![image](000_gifs/1703_WhyDoWeVisualiseData?.gif) 
+![image](000_gifs/1703_WhyDoWeVisualiseData.gif) 
 
 ### A data point walks into a bar
-[PDF](1612_ADatpointWalksIntoABar.pdf), [Transcript](), [Recording]()
-**Where?** Chaos Communication Congress in Hamburg (Germany)
-**When?** December 2016
-**How long?** 20min
+[PDF](1612_ADatpointWalksIntoABar.pdf), [Transcript](https://lisacharlotterost.github.io/2016/12/27/datapoint-in-bar/), [Recording](https://media.ccc.de/v/33c3-7999-a_data_point_walks_into_a_bar)<br>
+**Where?** Chaos Communication Congress in Hamburg (Germany)<br>
+**When?** December 2016<br>
+**How long?** 20min<br>
 **What?** Explaining why people are bad with high numbers, and that we feel more grief about the death of one person than about the death of thousands. Presenting possible ways how data vis could make us feel things even if it visualises big quantities.
 
 ![image](0000_gifs/1612_ADatpointWalksIntoABar.gif) 
 
 ### Making maps popular again
-[PDF](1611_MakingMapsPopularAgain.pdf), [Transcript](),  [Recording]()
+[PDF](1611_MakingMapsPopularAgain.pdf), [Transcript](https://lisacharlotterost.github.io/2016/10/19/election-map/),  ~~Recording~~
 **Where?** GeoNYC meetup in New York City
 **When?** November 2016
 **How long?** 20min
@@ -31,7 +35,7 @@
 
 
 ### Map Poetry
-[PDF](1610_MapPoetry), [Transcript](), ~~Recording~~
+[PDF](1610_MapPoetry), [Transcript](https://lisacharlotterost.github.io/2016/10/21/mappoetry/), ~~Recording~~
 **Where?** NACIS (a mapping conference) in Colorado Springs
 **When?** October 2016
 **How long?** 20min

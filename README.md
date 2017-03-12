@@ -1,7 +1,9 @@
 # Aaaaall my talk slides
 
-(Almost) all my talks as GIFs and PDFs. 
+(Almost) all my talks as GIFs and PDFs. There is still more to come; I’ll update it from time to time.
 
+<br>
+<br>
 ### Why do you visualise data? 
 [PDF](1703_WhyDoWeVisualiseData.pdf), [Transcript](https://lisacharlotterost.github.io/2017/03/08/why-do-we-visualize-data/), Recording will follow<br>
 **Where?** INCH (an information design conference) in Munich, Germany<br>
@@ -10,7 +12,9 @@
 **What?** Thinking about possible goals of data vis and how to categorise them, and which industry has which goals when it comes to data vis.
 
 ![image](0000_gifs/1703_WhyDoWeVisualiseData.gif) 
-<br>
+
+
+<br><br>
 ### A data point walks into a bar
 [PDF](1612_ADatpointWalksIntoABar.pdf), [Transcript](https://lisacharlotterost.github.io/2016/12/27/datapoint-in-bar/), [Recording](https://media.ccc.de/v/33c3-7999-a_data_point_walks_into_a_bar)<br>
 **Where?** Chaos Communication Congress in Hamburg (Germany)<br>
@@ -19,7 +23,8 @@
 **What?** Explaining why people are bad with high numbers, and that we feel more grief about the death of one person than about the death of thousands. Presenting possible ways how data vis could make us feel things even if it visualises big quantities.
 
 ![image](0000_gifs/1612_ADatpointWalksIntoABar.gif) 
-<br>
+
+<br><br>
 ### Making maps popular again
 [PDF](1611_MakingMapsPopularAgain.pdf), [Transcript](https://lisacharlotterost.github.io/2016/10/19/election-map/),  ~~Recording~~<br>
 **Where?** GeoNYC meetup in New York City<br>
@@ -29,7 +34,7 @@
 
 ![image](0000_gifs/1611_MakingMapsPopularAgain.gif) 
 
-<br>
+<br><br>
 ### Map Poetry
 [PDF](1610_MapPoetry), [Transcript](https://lisacharlotterost.github.io/2016/10/21/mappoetry/), ~~Recording~~<br>
 **Where?** NACIS (a mapping conference) in Colorado Springs<br>
@@ -38,7 +43,8 @@
 **What?** Thinking about maps that represent maps, not territories. Thinking about what map poetry can offer us and arguing that we should do that more. 
 
 ![image](0000_gifs/1610_MapPoetry.gif) 
-<br>
+
+<br><br>
 ### Github Tutorial
 [PDF](1608_GithubTutorial), ~~Transcript~~, ~~Recording~~<br>
 **Where?** Hacks/Hacker Media Party in Buenos Aires<br>
@@ -48,7 +54,7 @@
 
 ![image](0000_gifs/1608_GithubTutorial.gif) 
 
-<br>
+<br><br>
 ### Thinking Tools
 [PDF](1605_ThinkingTools), ~~Transcript~~, ~~Recording~~<br>
 **Where?** At NPR, for the NPR Visuals Team<br>
@@ -58,7 +64,7 @@
 
 ![image](0000_gifs/1605_ThinkingTools.gif) 
 
-<br>
+<br><br>
 ### Why What How
 [PDF](1510_WhyHowWhat), ~~Transcript~~, ~~Recording~~<br>
 **Where?** Mozfest in London, just for the other OpenNews fellows. I actually never gave this talk; I just prepared it.<br>
@@ -68,8 +74,7 @@
 
 ![image](0000_gifs/1510_WhyHowWhat.gif) 
 
-
-<br>
+<br><br>
 ### What Lisa likes
 [PDF](1409_WhatLisaLikes), ~~Transcript~~, ~~Recording~~<br>
 **Where?** Talk for my co-workers at Onlab, a design studio in Berlin I worked for in 2014.<br>

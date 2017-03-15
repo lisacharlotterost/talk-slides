@@ -83,7 +83,6 @@
 **How long?** 20min<br>
 **What?** Explaining what I like. Categories the things I like into “sorting knowledge”, “sorting ideas”, “sorting personalities”, “rethinking things”, “doing more in less time”. Please note that the talk is several years old; my opinion has definitely changed. 
 
-![image](0000_gifs/1409_WhatLisaLikes.gif) 
 
 <br><br>
 ## Presentation of my master’s thesis about editorial design

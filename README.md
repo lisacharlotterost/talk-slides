@@ -36,7 +36,7 @@
 ![image](0000_gifs/1611_MakingMapsPopularAgain.gif) 
 
 <br><br>
-### Map Poetry
+## Map Poetry
 [PDF](1610_MapPoetry.pdf), [Transcript](https://lisacharlotterost.github.io/2016/10/21/mappoetry/), ~~Recording~~<br>
 **Where?** NACIS (a mapping conference) in Colorado Springs<br>
 **When?** October 2016<br>
@@ -46,7 +46,7 @@
 ![image](0000_gifs/1610_MapPoetry.gif) 
 
 <br><br>
-### Github Tutorial
+## Github Tutorial
 [PDF](1608_GithubTutorial.pdf), ~~Transcript~~, ~~Recording~~<br>
 **Where?** Hacks/Hacker Media Party in Buenos Aires<br>
 **When?** September 2016<br>
@@ -56,7 +56,7 @@
 ![image](0000_gifs/1608_GithubTutorial.gif) 
 
 <br><br>
-### Thinking Tools
+## Thinking Tools
 [PDF](1605_ThinkingTools.pdf), ~~Transcript~~, ~~Recording~~<br>
 **Where?** At NPR, for the NPR Visuals Team<br>
 **When?** May 2016<br>
@@ -66,7 +66,7 @@
 ![image](0000_gifs/1605_ThinkingTools.gif) 
 
 <br><br>
-### Why What How
+## Why What How
 [PDF](1510_WhyHowWhat.pdf), ~~Transcript~~, ~~Recording~~<br>
 **Where?** Mozfest in London, just for the other OpenNews fellows. I actually never gave this talk; I just prepared it.<br>
 **When?** November 2015<br>
@@ -76,7 +76,7 @@
 ![image](0000_gifs/1510_WhyHowWhat.gif) 
 
 <br><br>
-### What Lisa likes
+## What Lisa likes
 [PDF](1409_WhatLisaLikes.pdf), ~~Transcript~~, ~~Recording~~<br>
 **Where?** Talk for my co-workers at Onlab, a design studio in Berlin I worked for in 2014.<br>
 **When?** September 2014<br>
@@ -85,10 +85,10 @@
 
 ![image](0000_gifs/1409_WhatLisaLikes.gif) 
 
-<br>
-### Presentation of my master’s thesis about editorial design
-[PDF](1407_MastersThesis.pdf), ~~Transcript~~, ~~Recording~~<br>
-**Where?** In the office of my professor, Berlin<br>
+<br><br>
+## Presentation of my master’s thesis about editorial design
+[PDF](1407_MastersThesis.pdf), ~~Transcript~~, ~~Recording~~ <br>
+**Where?** In the office of my professor, Berlin <br>
 **When?** August 2014<br>
 **How long?** 60min<br>
 **What?** Answering the question “Can I improve my design through feedback?”. I designed three different-looking magazines with the same content and got the feedback from lots of people.

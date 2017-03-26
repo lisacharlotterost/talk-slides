@@ -56,6 +56,18 @@
 ![image](0000_gifs/1608_GithubTutorial.gif) 
 
 <br><br>
+## More Context, Less News 
+[PDF](1606_LessNewsMoreContext.pdf), [Transcript](https://lisacharlotterost.github.io/2016/06/16/less-news-more-context/), [Recording](https://vimeo.com/179976639)<br>
+**Where?** Information+ in Vancouver<br>
+**When?** June 2016<br>
+**How long?** 5min<br>
+**What?** Lightning Talk that questions the role of news graphics. 
+
+![image](0000_gifs/1606_LessNewsMoreContext.gif) 
+
+
+
+<br><br>
 ## Thinking Tools
 [PDF](1605_ThinkingTools.pdf), ~~Transcript~~, ~~Recording~~<br>
 **Where?** At NPR, for the NPR Visuals Team<br>

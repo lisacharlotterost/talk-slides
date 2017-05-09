@@ -5,6 +5,18 @@
 <br>
 <br>
 
+
+## Why you don’t believe in facts, and how to fix it 
+[PDF](1705_WhyYouDontBelieveInFacts.pdf), [Transcript](https://lisacharlotterost.github.io), Recording will follow<br>
+**Where?** [Re:publica](https://re-publica.com/) (“The Most Exciting Festival for the Digital Society”) in Berlin, Germany<br>
+**When?** May 2017<br>
+**How long?** 20min<br>
+**What?** Understanding why we believe so many stupid things, why we can’t get rid of beliefs easily and how to believe more true things.
+
+![image](0000_gifs/1705_WhyYouDontBelieveInFacts.gif) 
+
+
+<br><br>
 ## Why do you visualise data? 
 [PDF](1703_WhyDoWeVisualiseData.pdf), [Transcript](https://lisacharlotterost.github.io/2017/03/08/why-do-we-visualize-data/), Recording will follow<br>
 **Where?** INCH (an information design conference) in Munich, Germany<br>

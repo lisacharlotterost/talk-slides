@@ -7,7 +7,7 @@
 
 
 ## Why you don’t believe in facts, and how to fix it 
-[PDF](1705_WhyYouDontBelieveInFacts.pdf), [Transcript](https://lisacharlotterost.github.io), Recording will follow<br>
+[PDF](1705_WhyYouDontBelieveInFacts.pdf), [Transcript](https://lisacharlotterost.github.io/2017/05/07/why-do-we-not-believe-in-facts/), [Recording](https://www.youtube.com/watch?v=GnNazd3jZXU)<br>
 **Where?** [Re:publica](https://re-publica.com/) (“The Most Exciting Festival for the Digital Society”) in Berlin, Germany<br>
 **When?** May 2017<br>
 **How long?** 20min<br>

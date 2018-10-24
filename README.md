@@ -16,7 +16,7 @@
 ![image](0000_gifs/1810_DataVisToolsRevisited.gif)
 
 
-
+<br><br>
 ## Why you don’t believe in facts, and how to fix it
 [PDF in English](1705_WhyYouDontBelieveInFacts.pdf), [PDF in German](1705_WhyYouDontBelieveInFacts_German.pdf),  [Transcript](https://lisacharlotterost.github.io/2017/05/07/why-do-we-not-believe-in-facts/), [Recording](https://www.youtube.com/watch?v=GnNazd3jZXU)<br>
 **Where?** [Re:publica](https://re-publica.com/) (“The Most Exciting Festival for the Digital Society”) in Berlin, Germany<br>

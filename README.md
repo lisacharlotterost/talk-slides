@@ -14,7 +14,7 @@
 
 ![image](0000_gifs/1905_ADatpointWalksIntoABar.gif)
 
-
+<br><br>
 ## Data Vis Tools, Revisited
 [PDF](1810_DataVisToolsRevisited.pdf), ~~Transcript~~, ~~Recording~~<br>
 **Where?** [Vis in Practice](http://www.visinpractice.rwth-aachen.de/program.html) (“dedicated to everyone interested in the practical aspects of data visualization and visual analytics”) at [IEEE VIS](http://ieeevis.org/year/2018/welcome) ("the worldwide largest and most important conference on Scientific Visualization, Information Visualization and Visual Analytics") in Berlin, Germany<br>

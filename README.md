@@ -1,9 +1,18 @@
 # Aaaaall my talk slides
 
-(Almost) all my talks as GIFs and PDFs. There is still more to come; I’ll update it from time to time.
+(Almost) all my talks as GIFs and PDFs. I update it from time to time.
 
 <br>
 <br>
+
+## A data point walks into a bar
+[PDF](1905_ADatpointWalksIntoABar.pdf), ~~Transcript~~, ~~Recording~~ (will follow)<br>
+**Where?** [“Visualizing Knowledge](https://vizknowledge.aalto.fi/) at Aalto University in Helsinki, Finland (“Visualizing Knowledge brings together a diverse group of practitioners to discuss data visualization from multiple perspectives.”)<br>
+**When?** May 2019<br>
+**How long?** 30min<br>
+**What?** Updating my talk from 2016/2017 (scroll down to see the original) with the same topic: Explaining why people are bad with high numbers, and that we feel more grief about the death of one person than about the death of thousands. Presenting possible ways how data vis could make us feel things even if it visualises big quantities.
+
+![image](1905_ADatpointWalksIntoABar.gif)
 
 
 ## Data Vis Tools, Revisited
@@ -52,9 +61,9 @@
 
 <br><br>
 ## A data point walks into a bar
-[PDF](1612_ADatpointWalksIntoABar.pdf), [Transcript](https://lisacharlotterost.github.io/2016/12/27/datapoint-in-bar/), [Recording](https://media.ccc.de/v/33c3-7999-a_data_point_walks_into_a_bar)<br>
-**Where?** Chaos Communication Congress in Hamburg (Germany)<br>
-**When?** December 2016<br>
+[PDF](1612_ADatpointWalksIntoABar.pdf), [Transcript](https://lisacharlotterost.github.io/2016/12/27/datapoint-in-bar/), [Recording Dec 2016](https://media.ccc.de/v/33c3-7999-a_data_point_walks_into_a_bar), [Recording May 2017](https://www.youtube.com/watch?v=8XgF-RmNwUc)<br>
+**Where?** Chaos Communication Congress in Hamburg (Germany) & OpenVis Conf<br>
+**When?** December 2016 & May 2017<br>
 **How long?** 20min<br>
 **What?** Explaining why people are bad with high numbers, and that we feel more grief about the death of one person than about the death of thousands. Presenting possible ways how data vis could make us feel things even if it visualises big quantities.
 

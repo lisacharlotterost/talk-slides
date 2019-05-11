@@ -12,7 +12,7 @@
 **How long?** 30min<br>
 **What?** Updating my talk from 2016/2017 (scroll down to see the original) with the same topic: Explaining why people are bad with high numbers, and that we feel more grief about the death of one person than about the death of thousands. Presenting possible ways how data vis could make us feel things even if it visualises big quantities.
 
-![image](1905_ADatpointWalksIntoABar.gif)
+![image](0000_gifs/1905_ADatpointWalksIntoABar.gif)
 
 
 ## Data Vis Tools, Revisited

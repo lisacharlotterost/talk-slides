@@ -14,6 +14,19 @@
 
 ![image](0000_gifs/1905_ADatpointWalksIntoABar.gif)
 
+
+
+<br><br>
+## Complexity for the experts, simplicity for everyone else?
+[PDF](1902_ComplexityVsUnderstanding.pdf), ~~Transcript~~, ~~Recording~~<br>
+**Where?** "Designed for science: Complex ideas in clear focus", an event focusing on data visualization and design in science, organized by the design unit of the United Nations office in Geneva, Switzerland<br>
+**When?** February 2019<br>
+**How long?** 15min<br>
+**What?** Thanks to good design, we can communicate our scientific ideas to more people with the same degree of complexity. Or we can show a higher complexity in our ideas, without losing audiences. In this talk, we look at examples of data visualizations that achieve both. 
+![image](0000_gifs/1902_ComplexityVsUnderstanding.gif)
+
+
+
 <br><br>
 ## Data Vis Tools, Revisited
 [PDF](1810_DataVisToolsRevisited.pdf), ~~Transcript~~, ~~Recording~~<br>

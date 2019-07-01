@@ -23,8 +23,8 @@
 **When?** February 2019<br>
 **How long?** 15min<br>
 **What?** Thanks to good design, we can communicate our scientific ideas to more people with the same degree of complexity. Or we can show a higher complexity in our ideas, without losing audiences. In this talk, we look at examples of data visualizations that achieve both. 
-![image](0000_gifs/1902_ComplexityVsUnderstanding.gif)
 
+![image](0000_gifs/1902_ComplexityVsUnderstanding.gif)
 
 
 <br><br>

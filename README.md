@@ -5,9 +5,22 @@
 <br>
 <br>
 
+
+## What to consider when considering data vis rules
+[PDF](2011_WhatToConsiderWhenConsideringDataVisRules.pdf), [Transcript](https://lisacharlotterost.de/datavisrules/), ~~Recording~~ (will follow) <br>
+**Where?** ["S-H-O-W conference"](https://graphichuntersshow.nl/), organized online by Graphic Hunters<br>
+**When?** November 2020<br>
+**How long?** 40min<br>
+**What?** I talk about why I like rules, how I think that rules should look like, and I attempt to apply theories of art to data visualization, to explain how different goals can make rules contradict each other. 
+
+![image](0000_gifs/2011_WhatToConsiderWhenConsideringDataVisRules.gif)
+
+
+
+<br><br>
 ## A data point walks into a bar
-[PDF](1905_ADatpointWalksIntoABar.pdf), ~~Transcript~~, ~~Recording~~ (will follow)<br>
-**Where?** [“Visualizing Knowledge](https://vizknowledge.aalto.fi/) at Aalto University in Helsinki, Finland (“Visualizing Knowledge brings together a diverse group of practitioners to discuss data visualization from multiple perspectives.”)<br>
+[PDF](1905_ADatpointWalksIntoABar.pdf), ~~Transcript~~, ~~Recording~~<br>
+**Where?** [“Visualizing Knowledge"](https://vizknowledge.aalto.fi/) at Aalto University in Helsinki, Finland (“Visualizing Knowledge brings together a diverse group of practitioners to discuss data visualization from multiple perspectives.”)<br>
 **When?** May 2019<br>
 **How long?** 30min<br>
 **What?** Updating my talk from 2016/2017 (scroll down to see the original) with the same topic: Explaining why people are bad with high numbers, and that we feel more grief about the death of one person than about the death of thousands. Presenting possible ways how data vis could make us feel things even if it visualises big quantities.
